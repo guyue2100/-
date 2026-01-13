@@ -1,0 +1,8 @@
+{
+  "name": "Amber Souls - AI Glowing Eyes",
+  "description": "An interactive AI companion with glowing orange eyes that track your movement and interact via voice.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
